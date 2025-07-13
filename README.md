@@ -12,7 +12,7 @@ It's part of my practice and study plan to strengthen my data structures and alg
 - Sliding Window
 - Custom HashSet / HashMap Design
 
-## 🗂️ Problem List
+##  Problem List
 
 | #  | Problem Title                              | Difficulty | Link                           |
 |----|--------------------------------------------|------------|--------------------------------|
@@ -38,7 +38,6 @@ It's part of my practice and study plan to strengthen my data structures and alg
 | 20 | Subarray Sum Equals K                       | Medium     | [🔗](https://leetcode.com/problems/subarray-sum-equals-k/)         |
 | 21 | First Missing Positive                      | Hard       | [🔗](https://leetcode.com/problems/first-missing-positive/)        |
 
-> ✅ You can mark completed problems with checkmarks as you solve them.
 
 ## 🛠 Structure
 
@@ -55,8 +54,7 @@ Each problem includes:
 
 - Improve problem-solving skills
 - Build consistency with daily practice
-- Prepare for technical interviews
-
+ 
 ##  Progress
 
 You can track my progress [here](https://leetcode.com/u/leena3792/)  
